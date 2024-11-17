@@ -3,10 +3,10 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "24620300"))
+API_HASH = os.environ.get("API_HASH", "9a098f01aa56c836f2e34aee4b7ef963")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7002313119:AAFcBAoZqdFZOsh30ZXhIaU6yuJNBvpdVYI")
+ADMIN = int(os.environ.get("ADMIN", "6848223695"))
 
 
 # Premium 4GB Renaming Client Config
@@ -14,7 +14,7 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "The_Hogwart")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
 
 
