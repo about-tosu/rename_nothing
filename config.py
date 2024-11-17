@@ -5,12 +5,12 @@ import os
 # Required Variables Config
 API_ID = int(os.environ.get("API_ID", "24620300"))
 API_HASH = os.environ.get("API_HASH", "9a098f01aa56c836f2e34aee4b7ef963")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7002313119:AAFcBAoZqdFZOsh30ZXhIaU6yuJNBvpdVYI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7002313119:AAGeVrRMqP8Vb1zX7KoBdNBhvabzepWyQhw")
 ADMIN = int(os.environ.get("ADMIN", "6848223695"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "1BVtsOH0Bu5yJfQtL2qo-zHMOCnK5XgbQCSqpaq4GJZeZAzSn8AfbdInJafVzts3a7R62c6Qv5dt6jiLtAF3PaWt0e5eQMfUm_lP3PaSjX-394zue4eA1wnENamfpGVZWEXrgvPYEpySivD1ILj4yPrj8t9vUcDOkizCSygwL_zE303FIqEzlGPIzmr6kOVP5FCJjHH6ANo0ZYJNWe_DNQlo3PYT6W6g9xLh07x15vXcE7DeRsxb8W2dIyTuhy7XI_GgA2_m0D4fVYXJuiSK4C81rpHL-MVq7IwhuLn5g24rHfx-ZFyEn38tE9AWKaLiJZQr_e1tFpnaz7l-CrEgj5hn8Ndo3F7Q=")
+STRING_SESSION = os.environ.get("STRING_SESSION", "BQF3rQwAgyItTLtF9Zdq8aSoE7f2QgnmCu0MWvubaebRRWaVlfBOybTd1QxQ9qdFiouLVa6lw8SVivTRFtOHEw8nHIGWRkRkOoKOEHK1TxMLEfIxBNzvXHC_FPs3PznJ_WmCkcdT_ugAv4Qfzd9Rlvbhw9TDFgi_fGU75_ezRuOAiD-c98xzvMRwmzln3kvf7cROVge0ANjzC9TkXwKVjzw0oCrf2TN1nVeJbJNDvuFDAFCg-kfNtOt2ZlpEhOW_sEkleALPRWUAH_oa6JxWvo5NKtUzP5oHJqnJBsW0MUVp92M0oo-IXDlCZhfo5NtRYnXmA_x-DPX7Lizy0mVXkgA33v4vBgAAAAGhXtGfAQ")
 
 
 # Log & Force Channel Config
