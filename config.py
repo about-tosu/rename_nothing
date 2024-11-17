@@ -10,21 +10,21 @@ ADMIN = int(os.environ.get("ADMIN", "6848223695"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "")
+STRING_SESSION = os.environ.get("STRING_SESSION", "1BVtsOH0Bu5yJfQtL2qo-zHMOCnK5XgbQCSqpaq4GJZeZAzSn8AfbdInJafVzts3a7R62c6Qv5dt6jiLtAF3PaWt0e5eQMfUm_lP3PaSjX-394zue4eA1wnENamfpGVZWEXrgvPYEpySivD1ILj4yPrj8t9vUcDOkizCSygwL_zE303FIqEzlGPIzmr6kOVP5FCJjHH6ANo0ZYJNWe_DNQlo3PYT6W6g9xLh07x15vXcE7DeRsxb8W2dIyTuhy7XI_GgA2_m0D4fVYXJuiSK4C81rpHL-MVq7IwhuLn5g24rHfx-ZFyEn38tE9AWKaLiJZQr_e1tFpnaz7l-CrEgj5hn8Ndo3F7Q=")
 
 
 # Log & Force Channel Config
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "The_Hogwart")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002243347392"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Zenitsuaf:Zenitsuaf@cluster0.i58aapw.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "zenitsu")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/5Wb.jpg")
 
 
 
